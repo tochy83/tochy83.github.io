@@ -1,9 +1,4 @@
-[some text](color: red)
-
-<p>
-Quack quack
-<text color=red>ERROR</text>
-</p>
+<font color="green"> Welcome to freeCodeCamp. </font>
 
 # titre
 
