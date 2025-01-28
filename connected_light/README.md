@@ -12,7 +12,7 @@ Un interrupteur pour commander un point lumineux
 
 > *J'appelle point lumineux, une lumière seule ou un ensemble de lumières qui s'allument ensemble*
 
-[center]![Interrupteur|690x187](upload://9LBr1BEdCHajGeKAGoZ61v0OyNG.png)[/center]
+<p align="center"><img src="/img/interrupteur.png"></p>
 
 **Les interrupteurs en va et vient**
 Deux interrupteurs pour commander un point lumineux
