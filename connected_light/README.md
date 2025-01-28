@@ -122,11 +122,13 @@ Deux (ou plus) point de commande<br>
 <p align="center"><img src="img/boite_poussoir.png"></p>
 
 
-**Comment s'y retrouver ?**<br>
+**Comment s'y retrouver ?**
+<br>
 
 > [!CAUTION]
 > Petit rappel ici, on ne joue pas avec l'électricité au risque dans le pire des cas d'y laisser la vie. Avant toute intervention dans le tableau électrique ou derrière une prise ou interrupteur on coupe le courant.
 
+<br>
 Je commence par identifier si mes points de commande sont des interrupteurs ou des boutons poussoirs.<br>
 Pour ce faire il suffit d'appuyer dessus. Si une fois relâché il reste en position, c'est un interrupteur et si il revient à sa position initiale c'est alors un bouton poussoir. (Cela pourra aider pour paramétrer le module si besoin, ou encore appeler les choses par leurs noms en cas de question sur les forums).<br>
 Dans le cas on l'on a des boutons poussoirs, c'est que l'on a forcément un télérupteur quelque part et il faudra également le retrouver. Celui peut être dans le tableau électrique mais on peut aussi en trouver dans des boites de dérivation dans les murs ou dans les combles. 
@@ -139,21 +141,25 @@ Je fais de même au niveau du ou des points lumineux pour voir les fils qui arri
 
 Maintenant il va falloir identifier quel fil fait quoi.<br>
 Si dans le cas d'un interrupteur simple c'est assez facile surtout si les couleurs de fil sont respectées cela peut vite devenir compliqué pour un débutant quand les couleurs ne correspondent pas au schémas et pire quand les fils sont tous de la même couleur (Déjà vu).
+<br><br>
 
-Pour faire cette recherche nous allons avoir besoin d'un peu de matériel.<br>
+**Pour faire cette recherche nous allons avoir besoin d'un peu de matériel**
+<br>
+
 Des wagos ou domino.<br>
 Une bonne longueur de fil.<br>
 Du scotch d'électricien de préférence blanc.<br>
 Un feutre ou stylo permettant d'écrire sur le scotch.<br>
 Un multimètre (Avec la fonction continuité de préférence).<br>
-<img src="img/testeur.jpg" width=50% height=50%>
-<img src="img/zbminil2.jpg" width=25% height=25%>
+<p align="center"><img src="img/testeur.jpg" width=20% height=20%></p>
+<br><br>
 
-**C'est parti !!!**
+## C'est parti !!!
 
-Commençons par le cas le plus simple avec un seul interrupteur.
-Je rappelle que le courant est toujours coupé au tableau.
-Je débranche les 2 fils présents sur mon interrupteur.
-Je mets mon multimètre en mode continuité et à l'aide de ces câbles je fais contact entre la borne de sortie phase du disjoncteur (Du circuit d'éclairage sur lequel je travaille) et un des fils coté interrupteur.
-Vous allez me dire mais les fils de mon multimètre ne sont pas assez longs pour aller du tableau électrique jusqu'à l'interrupteur. C'est là qu'entre en jeu les wagos et la bonne longueur de fil. On va faire une rallonge.
+Commençons par le cas le plus simple avec un seul interrupteur.<br>
+Je rappelle que le courant est toujours coupé au tableau.<br>
+Je débranche les 2 fils présents sur mon interrupteur.<br>
+Je mets mon multimètre en mode continuité et à l'aide de ces câbles je fais contact entre la borne de sortie phase du disjoncteur (Du circuit d'éclairage sur lequel je travaille) et un des fils coté interrupteur.<br>
+Vous allez me dire mais les fils de mon multimètre ne sont pas assez longs pour aller du tableau électrique jusqu'à l'interrupteur. C'est là qu'entre en jeu les wagos et la bonne longueur de fil.<br>
+On va faire une rallonge.
 
