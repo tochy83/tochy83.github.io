@@ -16,19 +16,19 @@ Un interrupteur pour commander un point lumineux
 
 **Les interrupteurs en va et vient**
 Deux interrupteurs pour commander un point lumineux
-[center]![Va et vient|690x187](upload://2PhGfKcS4CrNBch6rMXDS8ANKNy.png)[/center]
+<p align="center"><img src="img/va_et_vient.png"></p>
 
 **Les boutons poussoirs et télérupteur**
 Un ou plusieurs boutons poussoirs et un télérupteur pour commander un point lumineux (On retrouve ici deux possibilités)
 Les boutons poussoirs avec phase
-![Telerupteur phase bp|690x213](upload://1s17HhsldrJsrNQpn6gixFv0zXQ.png)
+<p align="center"><img src="img/telerupteur_phase_bp.png"></p>
 
 **Les boutons poussoirs avec neutre**
-[center]![Telerupteur neutre bp|690x213](upload://mOftesYWSWgh5bNjDRS1Nl6p8Oj.png)[/center]
+<p align="center"><img src="img/telerupteur_neutre_bp.png"></p>
 
 Et pour finir un cas que l'on voit quand même moins souvent car remplacé, depuis pas mal de temps déjà, par les câblages avec télérupteurs
 **Les interrupteurs en va et vient avec permutateur**
-[center]![Permutateur|690x186](upload://jAqOgGnImDuUjJmlOR8f59fzXRe.png)[/center]
+<p align="center"><img src="img/permutateur.png"></p>
 
 On peut voir sur les schémas précédents que dans tous les cas nous avons :
 * Une arrivée électrique symbolisée par le disjoncteur (à gauche sur les schémas)
@@ -38,7 +38,7 @@ On peut voir sur les schémas précédents que dans tous les cas nous avons :
 On notera que quel que soit la complexité de la commande, vu du côté de la lampe la commande se comportera toujours comme un seul interrupteur. On appui ça s'allume, on appui à nouveau ça s'éteint.
 
 **Pour pouvoir domotiser tout ça, il faut donc rajouter un module (smart switch) entre le bloc de commande et le point lumineux.**
-[center]![schema de principe|690x175](upload://lufB9EMzMuzOzU38Y4pJEmCEfCF.png)[/center]
+<p align="center"><img src="img/schema_de_principe.png"></p>
 <br>
 
 **[size=4]Choix du module :[/size]**
