@@ -96,7 +96,6 @@ J'ai choisi pour ce guide des modules de chez sonoff
 Parce que ce sont ceux que je connais le mieux, que j'ai pu avoir entre les mains pour certains d'entre eux.
 Parce qu'ils acceptent sur leurs entrées aussi bien des interrupteurs que des boutons poussoirs et qu'ils peuvent se comporter sur leurs sorties comme des interrupteurs (les 4) ou comme des boutons poussoirs (à l'exception du ZBminiL2).
 
-> [!note]
 > Bien sur il est tout à fait possible de réaliser la même chose avec des modules d'autres marques à conditions qu'ils aient les mêmes possibilités que ceux présentés ici.
 <br>
 
@@ -128,7 +127,7 @@ Deux (ou plus) point de commande<br>
 **Comment s'y retrouver ?**
 <br>
 
-> <font color="green">Petit rappel ici, on ne joue pas avec l'électricité au risque dans le pire des cas d'y laisser la vie. Avant toute intervention dans le tableau électrique ou derrière une prise ou interrupteur on coupe le courant.</font>
+> <font color="red">Petit rappel ici, on ne joue pas avec l'électricité au risque dans le pire des cas d'y laisser la vie. Avant toute intervention dans le tableau électrique ou derrière une prise ou interrupteur on coupe le courant.</font>
 
 <br>
 Je commence par identifier si mes points de commande sont des interrupteurs ou des boutons poussoirs.<br>
@@ -161,8 +160,8 @@ Un multimètre (Avec la fonction continuité de préférence).<br>
 ## C'est parti !!!
 
 **Commençons par le cas le plus simple avec un seul interrupteur**<br>
-> [!CAUTION]
->Je rappelle que le courant est toujours coupé au tableau.
+
+> <font color="red">Je rappelle que le courant est toujours coupé au tableau.</font>
 
 Je débranche les 2 fils présents sur mon interrupteur.<br>
 Je mets mon multimètre en mode continuité et à l'aide de ces câbles je fais contact entre la borne de sortie phase du disjoncteur (Du circuit d'éclairage sur lequel je travaille) et un des fils coté interrupteur.<br>
