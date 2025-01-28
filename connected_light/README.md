@@ -146,8 +146,8 @@ Une bonne longueur de fil.<br>
 Du scotch d'électricien de préférence blanc.<br>
 Un feutre ou stylo permettant d'écrire sur le scotch.<br>
 Un multimètre (Avec la fonction continuité de préférence).<br>
-<p align="center"><img src="img/testeur.jpg"></p>
-
+<img src="img/testeur.jpg" width=50% height=50%>
+<img src="img/zbminil2.jpg" width=25% height=25%>
 
 **C'est parti !!!**
 
