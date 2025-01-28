@@ -103,7 +103,6 @@ ZBminiL2<br>
 <p align="center"><img src="img/schema_zbminil2.png"><br><br></p>
 ZBminiR2, MiniR4M et MiniR4<br>
 <p align="center"><img src="img/schema_minir4.jpg"></p>
-
 Ces schémas nous apprennent que pour pouvoir brancher les différents modules nous avons besoin d'identifier certains fils.<br>
 La phase pour l'alimentation du module, le départ vers la lampe qui est également la sortie de " la commande " (interrupteur, va et vient etc...) dans le cas du ZBminiL2 et en plus le fil de neutre pour les 3 autres.
 <br><br>
@@ -116,34 +115,37 @@ Un seul point de commande<br>
 <p align="center"><img src="img/boite_inter.png"></p>
 J'ai mis un fil bleu en pointillé dans la boite qui représente le fil de neutre car il n'est pas toujours présent. Je ne l'ai pas remis sur les schémas ci-dessous pour ne pas les surcharger
 
+<br><br>
 Deux (ou plus) point de commande<br>
 <p align="center"><img src="img/boite_vv.png"></p>
-
+<br><br>
 <p align="center"><img src="img/boite_poussoir.png"></p>
 
 
 **Comment s'y retrouver ?**<br>
 
-[color=red]Petit rappel ici, on ne joue pas avec l'électricité au risque dans le pire des cas d'y laisser la vie. Avant toute intervention dans le tableau électrique ou derrière une prise ou interrupteur on coupe le courant.[/color]
+> [!CAUTION]
+> Petit rappel ici, on ne joue pas avec l'électricité au risque dans le pire des cas d'y laisser la vie. Avant toute intervention dans le tableau électrique ou derrière une prise ou interrupteur on coupe le courant.
 
-Je commence par identifier si mes points de commande sont des interrupteurs ou des boutons poussoirs. Pour ce faire il suffit d'appuyer dessus. Si une fois relâché il reste en position, c'est un interrupteur et si il revient à sa position initiale c'est alors un bouton poussoir. (Cela pourra aider pour paramétrer le module si besoin, ou encore appeler les choses par leurs noms en cas de question sur les forums)
-Dans le cas on l'on a des boutons poussoirs, c'est que l'on a forcément un télérupteur (ou minuterie) quelque part et il faudra également le retrouver. Celui peut être dans le tableau électrique mais on peut aussi en trouver dans des boites de dérivation dans les murs ou dans les combles. 
+Je commence par identifier si mes points de commande sont des interrupteurs ou des boutons poussoirs.<br>
+Pour ce faire il suffit d'appuyer dessus. Si une fois relâché il reste en position, c'est un interrupteur et si il revient à sa position initiale c'est alors un bouton poussoir. (Cela pourra aider pour paramétrer le module si besoin, ou encore appeler les choses par leurs noms en cas de question sur les forums).<br>
+Dans le cas on l'on a des boutons poussoirs, c'est que l'on a forcément un télérupteur quelque part et il faudra également le retrouver. Celui peut être dans le tableau électrique mais on peut aussi en trouver dans des boites de dérivation dans les murs ou dans les combles. 
 
-Je vais à mon tableau électrique et je coupe le courant de la ligne concerné (En cas de doute, on coupe le général). Une fois le disjoncteur coupé je retourne appuyer sur l'interrupteur sur lequel je travaille et j'appuie dessus pour m'assurer que la lumière reste bien éteinte. Si ce n'est pas le cas c'est que je n'ai pas coupé le bon circuit.
+Je vais à mon tableau électrique et je coupe le courant.
 
 Une fois le courant coupé je peux ouvrir mes interrupteurs ou poussoirs pour voir derrière ce que l'on va trouver comme fil et pouvoir les identifier. J’en profite pour faire une photo des différents branchements entre les fils et les interrupteurs.
 
 Je fais de même au niveau du ou des points lumineux pour voir les fils qui arrivent.
 
-Maintenant il va falloir identifier quel fil fait quoi.
+Maintenant il va falloir identifier quel fil fait quoi.<br>
 Si dans le cas d'un interrupteur simple c'est assez facile surtout si les couleurs de fil sont respectées cela peut vite devenir compliqué pour un débutant quand les couleurs ne correspondent pas au schémas et pire quand les fils sont tous de la même couleur (Déjà vu).
 
-Pour faire cette recherche nous allons avoir besoin d'un peu de matériel.
-Des wagos ou domino.
-Une bonne longueur de fil.
-Du scotch d'électricien de préférence blanc.
-Un feutre ou stylo permettant d'écrire sur le scotch.
-Un multimètre (Avec la fonction continuité de préférence).
+Pour faire cette recherche nous allons avoir besoin d'un peu de matériel.<br>
+Des wagos ou domino.<br>
+Une bonne longueur de fil.<br>
+Du scotch d'électricien de préférence blanc.<br>
+Un feutre ou stylo permettant d'écrire sur le scotch.<br>
+Un multimètre (Avec la fonction continuité de préférence).<br>
 [center]![testeur|342x370, 50%](upload://qVUR0hKSo2gWZcA4WM6KqmDfEAT.jpeg)[/center]
 
 
