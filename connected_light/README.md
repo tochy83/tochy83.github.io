@@ -108,21 +108,21 @@ Ces schémas nous apprennent que pour pouvoir brancher les différents modules n
 La phase pour l'alimentation du module, le départ vers la lampe qui est également la sortie de " la commande " (interrupteur, va et vient etc...) dans le cas du ZBminiL2 et en plus le fil de neutre pour les 3 autres.
 <br><br>
 
-## Dans la pratique, comment faire
+## Dans la pratique, comment faire<br>
 
 C'est bien beau tous ces schémas car on voit tous les fils, mais en pratique on d'un côté le tableau électrique, le ou les boitiers d'encastrement avec les interrupteurs ou poussoirs et la lampe au plafond ou sur un mur.
 
-Un seul point de commande
-[center]![boite_inter|690x174](upload://vjBLl1qMDHKD5ZNEq269rUNU6ro.png)[/center]
+Un seul point de commande<br>
+<p align="center"><img src="img/boite_inter.png"></p>
 J'ai mis un fil bleu en pointillé dans la boite qui représente le fil de neutre car il n'est pas toujours présent. Je ne l'ai pas remis sur les schémas ci-dessous pour ne pas les surcharger
 
-Deux (ou plus) point de commande
-[center]![boite_vv|690x174](upload://rAQKFlp938V6UPptVqrkV6LZUCG.png)[/center]
+Deux (ou plus) point de commande<br>
+<p align="center"><img src="img/boite_vv.png"></p>
 
-[center]![boite_poussoir|690x174](upload://a75x30mvHg6Oz4oURbr54iaUDY0.png)[/center]
+<p align="center"><img src="img/boite_poussoir.png"></p>
 
 
-**Comment s'y retrouver ?**
+**Comment s'y retrouver ?**<br>
 
 [color=red]Petit rappel ici, on ne joue pas avec l'électricité au risque dans le pire des cas d'y laisser la vie. Avant toute intervention dans le tableau électrique ou derrière une prise ou interrupteur on coupe le courant.[/color]
 
