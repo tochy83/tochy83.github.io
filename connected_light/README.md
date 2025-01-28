@@ -1,5 +1,3 @@
-<font color="green"> Welcome to freeCodeCamp. </font>
-
 # titre
 
 Je vous propose dans ce guide, de vous expliquer comment domotiser les lumières de la maison tout en gardant en fonctionnement les interrupteurs existants pour ne pas être obligé de dégainer constamment son téléphone pour allumé une lumière ou tout simplement pour que les lumières continuent à fonctionner normalement même en cas de plantage de la domotique.
@@ -130,8 +128,7 @@ Deux (ou plus) point de commande<br>
 **Comment s'y retrouver ?**
 <br>
 
-> [!CAUTION]
-> Petit rappel ici, on ne joue pas avec l'électricité au risque dans le pire des cas d'y laisser la vie. Avant toute intervention dans le tableau électrique ou derrière une prise ou interrupteur on coupe le courant.
+> <font color="green">Petit rappel ici, on ne joue pas avec l'électricité au risque dans le pire des cas d'y laisser la vie. Avant toute intervention dans le tableau électrique ou derrière une prise ou interrupteur on coupe le courant.</font>
 
 <br>
 Je commence par identifier si mes points de commande sont des interrupteurs ou des boutons poussoirs.<br>
