@@ -7,27 +7,27 @@ Je vous propose dans ce guide, de vous expliquer comment domotiser les lumières
 
 Les cas les plus courants de branchement des lumières dans une maison sont les suivants.
 
-**L'interrupteur simple**
+**L'interrupteur simple**<br>
 Un interrupteur pour commander un point lumineux
 
 > *J'appelle point lumineux, une lumière seule ou un ensemble de lumières qui s'allument ensemble*
 
 <p align="center"><img src="img/interrupteur.png"></p>
 
-**Les interrupteurs en va et vient**
+**Les interrupteurs en va et vient**<br>
 Deux interrupteurs pour commander un point lumineux
 <p align="center"><img src="img/va_et_vient.png"></p>
 
-**Les boutons poussoirs et télérupteur**
+**Les boutons poussoirs et télérupteur**<br>
 Un ou plusieurs boutons poussoirs et un télérupteur pour commander un point lumineux (On retrouve ici deux possibilités)
 Les boutons poussoirs avec phase
 <p align="center"><img src="img/telerupteur_phase_bp.png"></p>
 
-**Les boutons poussoirs avec neutre**
+**Les boutons poussoirs avec neutre**<br>
 <p align="center"><img src="img/telerupteur_neutre_bp.png"></p>
 
 Et pour finir un cas que l'on voit quand même moins souvent car remplacé, depuis pas mal de temps déjà, par les câblages avec télérupteurs
-**Les interrupteurs en va et vient avec permutateur**
+**Les interrupteurs en va et vient avec permutateur**<br>
 <p align="center"><img src="img/permutateur.png"></p>
 
 On peut voir sur les schémas précédents que dans tous les cas nous avons :
@@ -37,44 +37,72 @@ On peut voir sur les schémas précédents que dans tous les cas nous avons :
 
 On notera que quel que soit la complexité de la commande, vu du côté de la lampe la commande se comportera toujours comme un seul interrupteur. On appui ça s'allume, on appui à nouveau ça s'éteint.
 
-**Pour pouvoir domotiser tout ça, il faut donc rajouter un module (smart switch) entre le bloc de commande et le point lumineux.**
+**Pour pouvoir domotiser tout ça, il faut donc rajouter un module (smart switch) entre le bloc de commande et le point lumineux.**<br>
 <p align="center"><img src="img/schema_de_principe.png"></p>
 <br><br>
 
 ## Choix du module
 J'ai choisi pour ce guide des modules de chez sonoff
-* [Le ZBminiL2](https://sonoff.tech/product/diy-smart-switches/zbmini-l2/)
-  
-https://www.domadoo.fr/fr/peripheriques/6619-sonoff-commutateur-intelligent-sans-neutre-zigbee-30-zbminil2-6920075778298.html
-<img src="img/zbminil2.jpg">
+<table align="center">
+<thead>
+<tr align="center">
+<th>
+<br><strong>Le ZBminiL2</strong><br><br>
+</th>
+<th>
+<br><strong>Le ZBminiR2</strong><br><br>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr align="center">
+<td>
+<img src="img/zbminil2.jpg" width=25% height=25%>
+<br><a href="https://sonoff.tech/product/diy-smart-switches/zbmini-l2/">La fiche produit du zbminil2</a>
+</td>
+<td>
+<img src="img/zbminir2.jpg" width=25% height=25%>
+<br><a href="https://sonoff.tech/product/diy-smart-switches/zbminir2/">La fiche produit du zbminir2</a>
+</td>
+</tr>
+</tbody>
+<thead>
+<tr align="center">
+<th>
+<br><strong>Le MiniR4M</strong><br><br>
+</th>
+<th>
+<br><strong>Le MiniR4</strong><br><br>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr align="center">
+<td>
+<img src="img/minir4m.jpg" width=25% height=25%>
+<br><a href="https://sonoff.tech/product/diy-smart-switches/minir4m/">La fiche produit du minir4m</a>
+</td>
+<td>
+<img src="img/minir4.jpg" width=25% height=25%>
+<br><a href="https://sonoff.tech/product/diy-smart-switches/minir4/">La fiche produit du minir4</a>
+</td>
+</tr>
+</tbody>
+</table>
+<br>
 
-* [Le ZBminiR2](https://sonoff.tech/product/diy-smart-switches/zbminir2/)
-
-https://www.domadoo.fr/fr/peripheriques/7474-sonoff-module-zigbee-commutateur-10a-zbminir2.html
-<img src="img/zbminir2.jpg">
-
-* [Le MiniR4M](https://sonoff.tech/product/diy-smart-switches/minir4m/)
-
-https://www.domadoo.fr/fr/eclairage-connecte/6783-sonoff-module-connecte-onoff-matter-10a-minir4m.html
-<img src="img/minir4m.jpg">
-
-* [Le MiniR4](https://sonoff.tech/product/diy-smart-switches/minir4/)
-
-https://www.domadoo.fr/fr/peripheriques/6600-sonoff-module-commutateur-connecte-wi-fi-10a-minir4.html
-<img src="img/minir4.jpg">
-
-**Pourquoi ceux-ci et pas d'autres, me direz-vous ?**
+**Pourquoi ceux-ci et pas d'autres, me direz-vous ?**<br>
 Parce que ce sont ceux que je connais le mieux, que j'ai pu avoir entre les mains pour certains d'entre eux.
 Parce qu'ils acceptent sur leurs entrées aussi bien des interrupteurs que des boutons poussoirs et qu'ils peuvent se comporter sur leurs sorties comme des interrupteurs (les 4) ou comme des boutons poussoirs (à l'exception du ZBminiL2).
 
 > Bien sur il est tout à fait possible de réaliser la même chose avec des modules d'autres marques à conditions qu'ils aient les mêmes possibilités que ceux présentés ici.
+<br>
 
-**Leurs différents schémas de câblage**
+**Leurs différents schémas de câblage**<br>
 ZBminiL2
-[center]![ZBMINIL2-schema|690x148](upload://roWOfta1OabR6CPTzqnzWlqQcxP.png)[/center]
-
+<img src="img/schema_zbminl2.png">
 ZBminiR2, MiniR4M et MiniR4
-[center]![ZBminiR4-schema|690x203](upload://1cIDXFBYa0Cma88TYFdDQe4A7Vb.jpeg)[/center]
+<img src="img/schema_minir4.jpg>
 
 Ces schémas nous apprennent que pour pouvoir brancher les différents modules nous avons besoin d'identifier certains fils.
 La phase pour l'alimentation du module, le départ vers la lampe qui est également la sortie de " la commande " (interrupteur, va et vient etc...) dans le cas du ZBminiL2 et en plus le fil de neutre pour les 3 autres.
