@@ -1,6 +1,7 @@
 # titre
 
 Je vous propose dans ce guide, de vous expliquer comment domotiser les lumières de la maison tout en gardant en fonctionnement les interrupteurs existants pour ne pas être obligé de dégainer constamment son téléphone pour allumé une lumière ou tout simplement pour que les lumières continuent à fonctionner normalement même en cas de plantage de la domotique.
+J'ai essayé d'écrire ce guide pour que même un débutant puisse s'y retrouver avec un minimum de matériel, aussi certaines parties pourront paraîtrent sans intérêt pour ceux ayant de bonnes connaisssances en électricité. 
 <br><br>
 
 ## Le principe
@@ -95,6 +96,7 @@ J'ai choisi pour ce guide des modules de chez sonoff
 Parce que ce sont ceux que je connais le mieux, que j'ai pu avoir entre les mains pour certains d'entre eux.
 Parce qu'ils acceptent sur leurs entrées aussi bien des interrupteurs que des boutons poussoirs et qu'ils peuvent se comporter sur leurs sorties comme des interrupteurs (les 4) ou comme des boutons poussoirs (à l'exception du ZBminiL2).
 
+> [!note]
 > Bien sur il est tout à fait possible de réaliser la même chose avec des modules d'autres marques à conditions qu'ils aient les mêmes possibilités que ceux présentés ici.
 <br>
 
@@ -131,15 +133,17 @@ Deux (ou plus) point de commande<br>
 <br>
 Je commence par identifier si mes points de commande sont des interrupteurs ou des boutons poussoirs.<br>
 Pour ce faire il suffit d'appuyer dessus. Si une fois relâché il reste en position, c'est un interrupteur et si il revient à sa position initiale c'est alors un bouton poussoir. (Cela pourra aider pour paramétrer le module si besoin, ou encore appeler les choses par leurs noms en cas de question sur les forums).<br>
-Dans le cas on l'on a des boutons poussoirs, c'est que l'on a forcément un télérupteur quelque part et il faudra également le retrouver. Celui peut être dans le tableau électrique mais on peut aussi en trouver dans des boites de dérivation dans les murs ou dans les combles. 
+Dans le cas on l'on a des boutons poussoirs, c'est que l'on a forcément un télérupteur quelque part et il faudra également le retrouver. Celui peut être dans le tableau électrique mais on peut aussi en trouver dans des boites de dérivation dans les murs ou dans les combles.
+<br><br>
 
-Je vais à mon tableau électrique et je coupe le courant.
+Je vais à mon tableau électrique et je coupe le courant.<br>
 
-Une fois le courant coupé je peux ouvrir mes interrupteurs ou poussoirs pour voir derrière ce que l'on va trouver comme fil et pouvoir les identifier. J’en profite pour faire une photo des différents branchements entre les fils et les interrupteurs.
+Une fois le courant coupé je peux ouvrir mes interrupteurs ou poussoirs pour voir derrière ce que l'on va trouver comme fil et pouvoir les identifier. J’en profite pour faire une photo des différents branchements entre les fils et les interrupteurs.<br>
 
-Je fais de même au niveau du ou des points lumineux pour voir les fils qui arrivent.
+Je fais de même au niveau du ou des points lumineux pour voir les fils qui arrivent.<br>
 
 Maintenant il va falloir identifier quel fil fait quoi.<br>
+
 Si dans le cas d'un interrupteur simple c'est assez facile surtout si les couleurs de fil sont respectées cela peut vite devenir compliqué pour un débutant quand les couleurs ne correspondent pas au schémas et pire quand les fils sont tous de la même couleur (Déjà vu).
 <br><br>
 
@@ -156,8 +160,10 @@ Un multimètre (Avec la fonction continuité de préférence).<br>
 
 ## C'est parti !!!
 
-Commençons par le cas le plus simple avec un seul interrupteur.<br>
-Je rappelle que le courant est toujours coupé au tableau.<br>
+**Commençons par le cas le plus simple avec un seul interrupteur**<br>
+> [!CAUTION]
+>Je rappelle que le courant est toujours coupé au tableau.
+
 Je débranche les 2 fils présents sur mon interrupteur.<br>
 Je mets mon multimètre en mode continuité et à l'aide de ces câbles je fais contact entre la borne de sortie phase du disjoncteur (Du circuit d'éclairage sur lequel je travaille) et un des fils coté interrupteur.<br>
 Vous allez me dire mais les fils de mon multimètre ne sont pas assez longs pour aller du tableau électrique jusqu'à l'interrupteur. C'est là qu'entre en jeu les wagos et la bonne longueur de fil.<br>
