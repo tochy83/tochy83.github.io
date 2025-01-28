@@ -1,9 +1,9 @@
 # titre
 
 Je vous propose dans ce guide, de vous expliquer comment domotiser les lumières de la maison tout en gardant en fonctionnement les interrupteurs existants pour ne pas être obligé de dégainer constamment son téléphone pour allumé une lumière ou tout simplement pour que les lumières continuent à fonctionner normalement même en cas de plantage de la domotique.
-<br>
+<br><br>
 
-[u][size=4]**Principe :**[/size][/u]
+## Le principe
 
 Les cas les plus courants de branchement des lumières dans une maison sont les suivants.
 
@@ -39,25 +39,29 @@ On notera que quel que soit la complexité de la commande, vu du côté de la la
 
 **Pour pouvoir domotiser tout ça, il faut donc rajouter un module (smart switch) entre le bloc de commande et le point lumineux.**
 <p align="center"><img src="img/schema_de_principe.png"></p>
-<br>
+<br><br>
 
-**[size=4]Choix du module :[/size]**
+## Choix du module
 J'ai choisi pour ce guide des modules de chez sonoff
 * [Le ZBminiL2](https://sonoff.tech/product/diy-smart-switches/zbmini-l2/)
+  
 https://www.domadoo.fr/fr/peripheriques/6619-sonoff-commutateur-intelligent-sans-neutre-zigbee-30-zbminil2-6920075778298.html
-[center] ![ZBMINIL2|500x500, 25%](upload://a7wLa0buPY3QPQ82QUWwiaF8UM.jpeg)[/center]
+<img src="img/zbminil2.jpg">
 
 * [Le ZBminiR2](https://sonoff.tech/product/diy-smart-switches/zbminir2/)
+
 https://www.domadoo.fr/fr/peripheriques/7474-sonoff-module-zigbee-commutateur-10a-zbminir2.html
-[center]![ZBMINIR2|500x500, 25%](upload://so7pI97IbybtKsWx5ULpOIHL4Zx.jpeg)[/center]
+<img src="img/zbminir2.jpg">
 
 * [Le MiniR4M](https://sonoff.tech/product/diy-smart-switches/minir4m/)
+
 https://www.domadoo.fr/fr/eclairage-connecte/6783-sonoff-module-connecte-onoff-matter-10a-minir4m.html
-[center]![MINIR4M|500x500, 25%](upload://30PRZLRp6cgqClEF38czB7CRLnY.jpeg)[/center]
+<img src="img/minir4m.jpg">
 
 * [Le MiniR4](https://sonoff.tech/product/diy-smart-switches/minir4/)
+
 https://www.domadoo.fr/fr/peripheriques/6600-sonoff-module-commutateur-connecte-wi-fi-10a-minir4.html
-[center]![MINIR4|500x500, 25%](upload://aqBxTxM65541EiuNDVZ8akbZSar.jpeg)[/center]
+<img src="img/minir4.jpg">
 
 **Pourquoi ceux-ci et pas d'autres, me direz-vous ?**
 Parce que ce sont ceux que je connais le mieux, que j'ai pu avoir entre les mains pour certains d'entre eux.
@@ -74,9 +78,9 @@ ZBminiR2, MiniR4M et MiniR4
 
 Ces schémas nous apprennent que pour pouvoir brancher les différents modules nous avons besoin d'identifier certains fils.
 La phase pour l'alimentation du module, le départ vers la lampe qui est également la sortie de " la commande " (interrupteur, va et vient etc...) dans le cas du ZBminiL2 et en plus le fil de neutre pour les 3 autres.
-<br>
+<br><br>
 
-[u]**[size=4]Dans la pratique, comment faire :[/size]**[/u]
+## Dans la pratique, comment faire
 
 C'est bien beau tous ces schémas car on voit tous les fils, mais en pratique on d'un côté le tableau électrique, le ou les boitiers d'encastrement avec les interrupteurs ou poussoirs et la lampe au plafond ou sur un mur.
 
