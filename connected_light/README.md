@@ -91,20 +91,20 @@ J'ai choisi pour ce guide des modules de chez sonoff
 </table>
 <br>
 
-**Pourquoi ceux-ci et pas d'autres, me direz-vous ?**<br>
+**Pourquoi ceux-ci et pas d'autres, me direz-vous ?**<br><br>
 Parce que ce sont ceux que je connais le mieux, que j'ai pu avoir entre les mains pour certains d'entre eux.
 Parce qu'ils acceptent sur leurs entrées aussi bien des interrupteurs que des boutons poussoirs et qu'ils peuvent se comporter sur leurs sorties comme des interrupteurs (les 4) ou comme des boutons poussoirs (à l'exception du ZBminiL2).
 
 > Bien sur il est tout à fait possible de réaliser la même chose avec des modules d'autres marques à conditions qu'ils aient les mêmes possibilités que ceux présentés ici.
 <br>
 
-**Leurs différents schémas de câblage**<br>
-ZBminiL2
-<img src="img/schema_zbminil2.png">
-ZBminiR2, MiniR4M et MiniR4
-<img src="img/schema_minir4.jpg">
+**Leurs différents schémas de câblage**<br><br>
+ZBminiL2<br>
+<p align="center"><img src="img/schema_zbminil2.png"><br><br></p>
+ZBminiR2, MiniR4M et MiniR4<br>
+<p align="center"><img src="img/schema_minir4.jpg"></p>
 
-Ces schémas nous apprennent que pour pouvoir brancher les différents modules nous avons besoin d'identifier certains fils.
+Ces schémas nous apprennent que pour pouvoir brancher les différents modules nous avons besoin d'identifier certains fils.<br>
 La phase pour l'alimentation du module, le départ vers la lampe qui est également la sortie de " la commande " (interrupteur, va et vient etc...) dans le cas du ZBminiL2 et en plus le fil de neutre pour les 3 autres.
 <br><br>
 
