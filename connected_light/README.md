@@ -127,7 +127,7 @@ Deux (ou plus) point de commande<br>
 **Comment s'y retrouver ?**
 <br>
 
-> <font color="red">Petit rappel ici, on ne joue pas avec l'électricité au risque dans le pire des cas d'y laisser la vie. Avant toute intervention dans le tableau électrique ou derrière une prise ou interrupteur on coupe le courant.</font>
+> <font color="red">Petit rappel ici. On ne joue pas avec l'électricité au risque dans le pire des cas d'y laisser la vie. Avant toute intervention dans le tableau électrique ou derrière une prise ou interrupteur on coupe le courant.</font>
 
 <br>
 Je commence par identifier si mes points de commande sont des interrupteurs ou des boutons poussoirs.<br>
