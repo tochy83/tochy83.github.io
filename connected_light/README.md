@@ -100,9 +100,9 @@ Parce qu'ils acceptent sur leurs entrées aussi bien des interrupteurs que des b
 
 **Leurs différents schémas de câblage**<br>
 ZBminiL2
-<img src="img/schema_zbminl2.png">
+<img src="img/schema_zbminil2.png">
 ZBminiR2, MiniR4M et MiniR4
-<img src="img/schema_minir4.jpg>
+<img src="img/schema_minir4.jpg">
 
 Ces schémas nous apprennent que pour pouvoir brancher les différents modules nous avons besoin d'identifier certains fils.
 La phase pour l'alimentation du module, le départ vers la lampe qui est également la sortie de " la commande " (interrupteur, va et vient etc...) dans le cas du ZBminiL2 et en plus le fil de neutre pour les 3 autres.
