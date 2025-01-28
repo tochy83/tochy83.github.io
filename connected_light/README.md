@@ -115,7 +115,8 @@ C'est bien beau tous ces schémas car on voit tous les fils, mais en pratique on
 
 Un seul point de commande<br>
 <p align="center"><img src="img/boite_inter.png"></p>
-J'ai mis un fil bleu en pointillé dans la boite qui représente le fil de neutre car il n'est pas toujours présent. Je ne l'ai pas remis sur les schémas ci-dessous pour ne pas les surcharger
+
+> J'ai mis un fil bleu en pointillé dans la boite qui représente le fil de neutre car il n'est pas toujours présent. Je ne l'ai pas remis sur les schémas ci-dessous pour ne pas les surcharger
 
 <br><br>
 Deux (ou plus) point de commande<br>
