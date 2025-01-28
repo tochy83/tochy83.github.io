@@ -58,11 +58,11 @@ J'ai choisi pour ce guide des modules de chez sonoff
 <tbody>
 <tr align="center">
 <td>
-<img src="img/zbminil2.jpg" width=25% height=25%>
+<img src="img/zbminil2.jpg" width="25%" height="25%">
 <br><a href="https://sonoff.tech/product/diy-smart-switches/zbmini-l2/">La fiche produit du zbminil2</a>
 </td>
 <td>
-<img src="img/zbminir2.jpg" width=25% height=25%>
+<img src="img/zbminir2.jpg" width="25%" height="25%">
 <br><a href="https://sonoff.tech/product/diy-smart-switches/zbminir2/">La fiche produit du zbminir2</a>
 </td>
 </tr>
@@ -80,11 +80,11 @@ J'ai choisi pour ce guide des modules de chez sonoff
 <tbody>
 <tr align="center">
 <td>
-<img src="img/minir4m.jpg" width=25% height=25%>
+<img src="img/minir4m.jpg" width="25%" height="25%">
 <br><a href="https://sonoff.tech/product/diy-smart-switches/minir4m/">La fiche produit du minir4m</a>
 </td>
 <td>
-<img src="img/minir4.jpg" width=25% height=25%>
+<img src="img/minir4.jpg" width="25%" height="25%">
 <br><a href="https://sonoff.tech/product/diy-smart-switches/minir4/">La fiche produit du minir4</a>
 </td>
 </tr>
