@@ -170,7 +170,7 @@ Un multimètre (Avec la fonction continuité de préférence).<br>
 > <font color="red">Je rappelle que le courant est toujours coupé au tableau.</font>
 
 Je débranche les 2 fils présents sur mon interrupteur.<br>
-Je mets mon multimètre en mode continuité et à l'aide de ces câbles je fais contact entre la borne de sortie phase du disjoncteur (Du circuit d'éclairage sur lequel je travaille) et un des fils coté interrupteur.<br>
+Je mets mon multimètre en mode continuité et à l'aide de ses câbles, je fais contact entre la borne de sortie phase du disjoncteur du circuit d'éclairage sur lequel je travaille (Celui que j'ai identifié et laissé coupé précedemment) et un des fils coté interrupteur.<br>
 Vous allez me dire mais les fils de mon multimètre ne sont pas assez longs pour aller du tableau électrique jusqu'à l'interrupteur. C'est là qu'entre en jeu les wagos et la bonne longueur de fil.<br>
 On va faire une rallonge.
 
