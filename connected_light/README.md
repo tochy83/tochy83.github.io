@@ -132,10 +132,16 @@ Deux (ou plus) point de commande<br>
 <br>
 Je commence par identifier si mes points de commande sont des interrupteurs ou des boutons poussoirs.<br>
 Pour ce faire il suffit d'appuyer dessus. Si une fois relâché il reste en position, c'est un interrupteur et si il revient à sa position initiale c'est alors un bouton poussoir. (Cela pourra aider pour paramétrer le module si besoin, ou encore appeler les choses par leurs noms en cas de question sur les forums).<br>
-Dans le cas on l'on a des boutons poussoirs, c'est que l'on a forcément un télérupteur quelque part et il faudra également le retrouver. Celui peut être dans le tableau électrique mais on peut aussi en trouver dans des boites de dérivation dans les murs ou dans les combles.
-<br><br>
+Dans le cas on l'on a des boutons poussoirs, c'est que l'on a forcément un télérupteur quelque part et il faudra également le retrouver. Celui peut être dans le tableau électrique mais on peut aussi en trouver dans des boites de dérivation dans les murs ou dans les combles.<br>
+<br>
+Une fois que je sais si j'ai des interruptreurs ou bes boutons poussoirs, j'allume la lumière et je la laisse allumée.<br>
+<br>
 
-Je vais à mon tableau électrique et je coupe le courant.<br>
+Je vais à mon tableau électrique et je cherche quel disjoncteur correspond à la lumière que j'ai laissé allumée. Si le tableau est bien repéré il devrait y avoir une étiquette indiquant le bon circuit sinon il suffit de de basculer les disjoncteur un part un jusqu'à ce que la lumière de la pièce ou je veux intervenir s'éteigne.<br>
+
+Une fois le bon disjoncteur trouvé, je le laisse coupé et je peut remonter tous les autres.<br>
+
+Toujours au tableau, je coupe cette fois l'arrivée générale.<br>
 
 Une fois le courant coupé je peux ouvrir mes interrupteurs ou poussoirs pour voir derrière ce que l'on va trouver comme fil et pouvoir les identifier. J’en profite pour faire une photo des différents branchements entre les fils et les interrupteurs.<br>
 
