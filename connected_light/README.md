@@ -2,7 +2,7 @@
 
 Je vous propose dans ce guide, de vous expliquer comment domotiser les lumières de la maison tout en gardant en fonctionnement les interrupteurs existants pour ne pas être obligé de dégainer constamment son téléphone pour allumé une lumière ou tout simplement pour que les lumières continuent à fonctionner normalement même en cas de plantage de la domotique.
 J'ai essayé d'écrire ce guide pour que même un débutant puisse s'y retrouver avec un minimum de matériel, aussi certaines parties pourront paraîtrent sans intérêt pour ceux ayant de bonnes connaisssances en électricité. 
-<br><br>
+<br><br><br>
 
 ## Le principe
 
@@ -108,7 +108,7 @@ ZBminiR2, MiniR4M et MiniR4<br>
 <p align="center"><img src="img/schema_minir4.jpg"></p>
 Ces schémas nous apprennent que pour pouvoir brancher les différents modules nous avons besoin d'identifier certains fils.<br>
 La phase pour l'alimentation du module, le départ vers la lampe qui est également la sortie de " la commande " (interrupteur, va et vient etc...) dans le cas du ZBminiL2 et en plus le fil de neutre pour les 3 autres.
-<br><br>
+<br><br><br>
 
 ## Dans la pratique, comment faire<br>
 
@@ -163,7 +163,7 @@ Du scotch d'électricien de préférence blanc.<br>
 Un feutre ou stylo permettant d'écrire sur le scotch.<br>
 Un multimètre (Avec la fonction continuité de préférence).<br>
 <p align="center"><img src="img/testeur.jpg" width="20%" height="20%"></p>
-<br><br>
+<br><br><br>
 
 ## C'est parti !!!
 
