@@ -139,7 +139,7 @@ Une fois que je sais si j'ai des interruptreurs ou bes boutons poussoirs, j'allu
 
 Je vais à mon tableau électrique et je cherche quel disjoncteur correspond à la lumière que j'ai laissé allumée. Si le tableau est bien repéré il devrait y avoir une étiquette indiquant le bon circuit sinon il suffit de de basculer les disjoncteur un part un jusqu'à ce que la lumière de la pièce ou je veux intervenir s'éteigne.<br>
 
-Une fois le bon disjoncteur trouvé, je le laisse coupé et je peut remonter tous les autres.<br>
+Une fois le bon disjoncteur trouvé, je le laisse coupé et je peux remonter tous les autres.<br>
 
 Toujours au tableau, je coupe cette fois l'arrivée générale.<br>
 
