@@ -28,7 +28,8 @@ Un ou plusieurs boutons poussoirs et un télérupteur pour commander un point lu
 **Les boutons poussoirs avec neutre**<br>
 <p align="center"><img src="img/telerupteur_neutre_bp.png"></p>
 
-Et pour finir un cas que l'on voit quand même moins souvent car remplacé, depuis pas mal de temps déjà, par les câblages avec télérupteurs
+Et pour finir un cas que l'on voit quand même moins souvent car remplacé, depuis pas mal de temps déjà, par les câblages avec télérupteurs<br>
+
 **Les interrupteurs en va et vient avec permutateur**<br>
 <p align="center"><img src="img/permutateur.png"></p>
 
