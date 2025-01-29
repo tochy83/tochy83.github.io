@@ -20,8 +20,9 @@ Deux interrupteurs pour commander un point lumineux
 <p align="center"><img src="img/va_et_vient.png"></p>
 
 **Les boutons poussoirs et télérupteur**<br>
-Un ou plusieurs boutons poussoirs et un télérupteur pour commander un point lumineux (On retrouve ici deux possibilités)
-Les boutons poussoirs avec phase
+Un ou plusieurs boutons poussoirs et un télérupteur pour commander un point lumineux (On retrouve ici deux possibilités).<br>
+
+**Les boutons poussoirs avec phase**<br>
 <p align="center"><img src="img/telerupteur_phase_bp.png"></p>
 
 **Les boutons poussoirs avec neutre**<br>
