@@ -45,6 +45,7 @@ On notera que quel que soit la complexité de la commande, vu du côté de la la
 <br><br>
 
 ## Choix du module
+
 J'ai choisi pour ce guide des modules de chez sonoff
 <table align="center">
 <thead>
@@ -110,7 +111,7 @@ Ces schémas nous apprennent que pour pouvoir brancher les différents modules n
 La phase pour l'alimentation du module, le départ vers la lampe qui est également la sortie de " la commande " (interrupteur, va et vient etc...) dans le cas du ZBminiL2 et en plus le fil de neutre pour les 3 autres.
 <br><br><br>
 
-## Dans la pratique, comment faire<br>
+## Dans la pratique, comment faire
 
 C'est bien beau tous ces schémas car on voit tous les fils, mais en pratique on d'un côté le tableau électrique, le ou les boitiers d'encastrement avec les interrupteurs ou poussoirs et la lampe au plafond ou sur un mur.
 
@@ -163,7 +164,7 @@ Du scotch d'électricien de préférence blanc.<br>
 Un feutre ou stylo permettant d'écrire sur le scotch.<br>
 Un multimètre (Avec la fonction continuité de préférence).<br>
 <p align="center"><img src="img/testeur.jpg" width="20%" height="20%"></p>
-<br><br><br>
+<br><br>
 
 ## C'est parti !!!
 
