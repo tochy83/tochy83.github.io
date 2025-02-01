@@ -144,7 +144,7 @@ Je vais à mon tableau électrique et je cherche quel disjoncteur correspond à 
 
 Une fois le bon disjoncteur trouvé, je le laisse coupé et je peux remonter tous les autres.<br>
 
-Toujours au tableau, je coupe cette fois l'arrivée générale.<br>
+Toujours au tableau, <font color="red">je coupe cette fois l'arrivée générale.</font><br>
 
 Une fois le courant coupé je peux ouvrir mes interrupteurs ou poussoirs pour voir derrière ce que l'on va trouver comme fil et pouvoir les identifier. J’en profite pour faire une photo des différents branchements entre les fils et les interrupteurs.<br>
 
