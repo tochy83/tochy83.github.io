@@ -3,6 +3,14 @@
 
 @import "{{ site.theme }}";
 
+header h1 {
+  width: 840px;
+}
+
+header h2 {
+  width: 840px;
+}
+
 .inner {
   position: relative;
   width: 1240px;
