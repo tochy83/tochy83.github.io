@@ -99,7 +99,7 @@ J'ai choisi pour ce guide des modules de chez sonoff
 Parce que ce sont ceux que je connais le mieux, que j'ai pu avoir entre les mains pour certains d'entre eux.
 Parce qu'ils acceptent sur leurs entrées aussi bien des interrupteurs que des boutons poussoirs et qu'ils peuvent se comporter sur leurs sorties comme des interrupteurs (les 4) ou comme des boutons poussoirs (à l'exception du ZBminiL2).
 
-> Bien sur il est tout à fait possible de réaliser la même chose avec des modules d'autres marques à conditions qu'ils aient les mêmes possibilités que ceux présentés ici.
+> *Bien sur il est tout à fait possible de réaliser la même chose avec des modules d'autres marques à conditions qu'ils aient les mêmes possibilités que ceux présentés ici.*
 <br>
 
 **Leurs différents schémas de câblage**<br><br>
@@ -118,7 +118,7 @@ C'est bien beau tous ces schémas car on voit tous les fils, mais en pratique on
 Un seul point de commande<br>
 <p align="center"><img src="img/boite_inter.png"></p>
 
-> J'ai mis un fil bleu en pointillé dans la boite qui représente le fil de neutre car il n'est pas toujours présent. Je ne l'ai pas remis sur les schémas ci-dessous pour ne pas les surcharger
+> *J'ai mis un fil bleu en pointillé dans la boite qui représente le fil de neutre car il n'est pas toujours présent. Je ne l'ai pas remis sur les schémas ci-dessous pour ne pas les surcharger*
 
 <br><br>
 Deux (ou plus) point de commande<br>
@@ -164,6 +164,10 @@ Du scotch d'électricien de préférence blanc.<br>
 Un feutre ou stylo permettant d'écrire sur le scotch.<br>
 Un multimètre (Avec la fonction continuité de préférence).<br>
 <p align="center"><img src="img/multimetre_montage.jpg"></p>
+
+> *Sur la photo de gauche, mon multimètre réglé en mode continuité (Encerclé en rouge). Dans ce mode lorsque l'on fait contact entre les 2 pointes du multimètre, celui-ci émet un bip.*<br>
+> *Sur la photo de droite, la conception d'une rallonge avec un wago et la bonne longueur de fil (La bonne longueur est celle qui permet d'aller de l'interrupteur que l'on va tester, jusqu'au tableau électrique).*
+
 <br><br>
 
 ## C'est parti !!!
@@ -173,7 +177,6 @@ Un multimètre (Avec la fonction continuité de préférence).<br>
 > <font color="red">Je rappelle que le courant est toujours coupé au tableau.</font>
 
 Je débranche les 2 fils présents sur mon interrupteur.<br>
-Je mets mon multimètre en mode continuité et à l'aide de ses câbles, je fais contact entre la borne de sortie phase du disjoncteur du circuit d'éclairage sur lequel je travaille (Celui que j'ai identifié et laissé coupé précedemment) et un des fils coté interrupteur.<br>
-Vous allez me dire mais les fils de mon multimètre ne sont pas assez longs pour aller du tableau électrique jusqu'à l'interrupteur. C'est là qu'entre en jeu les wagos et la bonne longueur de fil.<br>
-On va faire une rallonge.
+Je mets mon multimètre en mode continuité et à l'aide de ses pointes, je fais contact entre la borne de sortie phase du disjoncteur du circuit d'éclairage sur lequel je travaille (Celui que j'ai identifié et laissé coupé précedemment) et un des fils coté interrupteur.<br>
+Vous allez me dire mais les fils de mon multimètre ne sont pas assez longs pour aller du tableau électrique jusqu'à l'interrupteur. C'est bien pour cela que je vous ai montré juste au dessus comment faire une rallonge.<br>
 
