@@ -163,7 +163,7 @@ Une bonne longueur de fil.<br>
 Du scotch d'électricien de préférence blanc.<br>
 Un feutre ou stylo permettant d'écrire sur le scotch.<br>
 Un multimètre (Avec la fonction continuité de préférence).<br>
-<p align="center"><img src="img/testeur.jpg" width="20%" height="20%"></p>
+<p align="center"><img src="img/multimetre_montage.jpg></p>
 <br><br>
 
 ## C'est parti !!!
