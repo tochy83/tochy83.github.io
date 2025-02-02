@@ -178,5 +178,5 @@ Un multimètre (Avec la fonction continuité de préférence).<br>
 
 Je débranche les 2 fils présents sur mon interrupteur.<br>
 Je mets mon multimètre en mode continuité et à l'aide de ses pointes, je fais contact entre la borne de sortie phase du disjoncteur du circuit d'éclairage sur lequel je travaille (Celui que j'ai identifié et laissé coupé précedemment) et un des fils coté interrupteur.<br>
-Vous allez me dire mais les fils de mon multimètre ne sont pas assez longs pour aller du tableau électrique jusqu'à l'interrupteur. C'est bien pour cela que je vous ai montré juste au dessus comment faire une rallonge.<br>
+> *Vous allez me dire mais les fils de mon multimètre ne sont pas assez longs pour aller du tableau électrique jusqu'à l'interrupteur. C'est bien pour cela que je vous ai montré juste au dessus comment faire une rallonge.*<br>
 
