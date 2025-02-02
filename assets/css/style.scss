@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+header {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
 header h1 {
   width: 840px;
 }
