@@ -1,6 +1,6 @@
 # titre
 
-Je vous propose dans ce guide, de vous expliquer comment domotiser les lumières de la maison tout en gardant en fonctionnement les interrupteurs existants pour ne pas être obligé de dégainer constamment son téléphone pour allumé une lumière ou tout simplement pour que les lumières continuent à fonctionner normalement même en cas de plantage de la domotique.
+Je vous propose dans ce guide, de vous expliquer comment domotiser les lumières de la maison tout en gardant en fonctionnement les interrupteurs existants pour ne pas être obligé de dégainer constamment son téléphone pour allumé une lumière ou tout simplement pour que les lumières continuent à fonctionner normalement même en cas de plantage de la domotique.<br>
 J'ai essayé d'écrire ce guide pour que même un débutant puisse s'y retrouver avec un minimum de matériel, aussi certaines parties pourront paraîtrent sans intérêt pour ceux ayant de bonnes connaisssances en électricité. 
 <br><br><br>
 
