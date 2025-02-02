@@ -1,4 +1,4 @@
 # Welcome to my site
 
-My lorum ipsum sidebar content.
-{: class="sidebar" }
+<div class="sidebar">My lorum ipsum sidebar content.</div>
+
